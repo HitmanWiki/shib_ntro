@@ -483,9 +483,9 @@
                     attrs: {
                         to: "/"
                     }
-                }, [e("img", {
-                    staticClass: "action_icon"
-                }, [t._v(" ")])])], 1), e("li", [e("router-link", {
+                }, [e("a", {
+                    staticClass: "text-green"
+                }, [t._v("Shib Nitro Snipper Dapp  ")])])], 1), e("li", [e("router-link", {
                     attrs: {
                         to: "/nitro/shib_nitro.png"
                     }
@@ -494,7 +494,7 @@
                     staticStyle: {
                         "white-space": "nowrap"
                     }
-                }, [t._v("  ")])])], 1)])])])]), e("div", {
+                }, [t._v(" ")])])], 1)])])])]), e("div", {
                     staticClass: "col-xl-6 col-12 mt-lg-0 mt-3"
                 }, [e("div", {
                     staticClass: "connect-wallet d-flex justify-content-lg-end justify-content-center align-items-center"
